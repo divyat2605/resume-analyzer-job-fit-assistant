@@ -163,7 +163,7 @@ Resume + JD + Analysis Summary
 
 ```bash
 git clone https://github.com/divyat2605/resumatch-ai.git
-cd resumatch-ai
+cd resumatch
 ```
 
 ### 2️⃣ Install dependencies
