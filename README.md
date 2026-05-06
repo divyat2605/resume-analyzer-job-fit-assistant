@@ -162,7 +162,7 @@ Resume + JD + Analysis Summary
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/resumatch-ai.git
+git clone https://github.com/divyat2605/resumatch-ai.git
 cd resumatch-ai
 ```
 
